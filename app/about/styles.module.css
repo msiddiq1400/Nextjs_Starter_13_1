@@ -1,0 +1,6 @@
+.main {
+    min-width: 100vh;
+    display: grid;
+    place-content: center;
+    background-color: #333;
+}
